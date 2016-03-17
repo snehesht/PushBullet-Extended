@@ -1,0 +1,46 @@
+{
+	"displayName":"Snehesh",
+	"email":"snehesh85@gmail.com",
+	"accessToken":"60H6B3R6QK7MISEY",
+	"uid":"FYR1G74DZ37E6VHVAEZ4JBQVJYH1FSFL",
+	"friendsList":[
+		{
+			"name":"Harsha",
+			"email":"harsha@localhost.com",
+			"type":"Friend",
+			"uid":"CR9PYIGIB9CKZUDWR3NX5GSNC78QR2CC",
+			"interactionCount":12
+		},
+		{
+			"name":"Deepak",
+			"email":"dpk@localhost.com",
+			"type":"Friend",
+			"uid":"R9SNMS07ZXVTP3YGFFHOY4JI1WEM12RJ",
+			"interactionCount":23	
+		},
+		{
+			"name":"Nexus 5",
+			"email":"snehesh85@gmail.com-nexus5",
+			"type":"PersonalDevice",
+			"uid":"USVJ1DD33CFBL4HPPL3UNR9ONADE363P",
+			"interactionCount":64
+		},
+		{
+			"name":"Windows Chrome",
+			"email":"snehesh85@gmail.com-windowschrome",
+			"type":"PersonalDevice",
+			"uid":"TZLH1J0S1PCFT1529UNYD82O8BNEBUWU",
+			"interactionCount":36
+		},
+		{
+			"name":"The Room",
+			"email":"snehesh85@gmail.com-theroom",
+			"type":"Group",
+			"groupList":["CR9PYIGIB9CKZUDWR3NX5GSNC78QR2CC","R9SNMS07ZXVTP3YGFFHOY4JI1WEM12RJ","FYR1G74DZ37E6VHVAEZ4JBQVJYH1FSFL"],
+			"uid":"E9BE4Z8DCQFHVRBAW5JDLZ5DKG2YONV8",
+			"interactionCount":22
+		}
+
+	],
+	"usageStatistics":""
+}
